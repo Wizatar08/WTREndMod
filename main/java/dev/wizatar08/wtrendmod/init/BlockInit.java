@@ -22,7 +22,7 @@ import java.util.Properties;
 import java.util.function.Supplier;
 
 public class BlockInit {
-    public static final DeferredRegister<Block> BLOCKgdsdgsdgsdgsdgsdS = DeferredRegister.create(ForgeRegistries.BLOCKS, WTREndMod.MODID);
+    public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, WTREndMod.MODID);
 
     public static final RegistryObject<Block> INFUSED_END_STONE = register("infused_end_stone",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST_CLUSTER).strength(0.4f, 0.5f), UniformInt.of(3, 8)),
