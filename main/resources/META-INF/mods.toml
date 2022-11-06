@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+[[mods]]
+modId="wtrendmod"
+version="1.0"
+displayName="End Revamp Mod"
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+logoFile="examplemod.png"
+credits="_Wizatar08"
+authors="_Wizatar08"
+#displayTest="MATCH_VERSION" # MATCH_VERSION is the default if nothing is specified (#optional)
+
+description='''
+ur mom hehehehaw
+'''

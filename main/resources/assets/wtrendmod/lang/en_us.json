@@ -1,0 +1,25 @@
+{
+  "item.wtrendmod.hollow_shard": "Hollow Shard",
+  "item.wtrendmod.hollow_sword": "Hollow Sword",
+  "item.wtrendmod.hollow_pickaxe": "Hollow Pickaxe",
+  "item.wtrendmod.hollow_shovel": "Hollow Shovel",
+  "item.wtrendmod.hollow_axe": "Hollow Axe",
+  "item.wtrendmod.hollow_hoe": "Hollow Hoe",
+  "item.wtrendmod.hollow_helmet": "Hollow Helmet",
+  "item.wtrendmod.hollow_chestplate": "Hollow Chestplate",
+  "item.wtrendmod.hollow_leggings": "Hollow Leggings",
+  "item.wtrendmod.hollow_boots": "Hollow Boots",
+
+  "item.wtrendmod.endillic_scraps": "Endillic Scraps",
+  "item.wtrendmod.endillic_berry": "Endillic Berry",
+
+  // Blocks
+  "block.wtrendmod.infused_end_stone": "Infused End Stone",
+  "block.wtrendmod.endillic_planks": "Endillic Planks",
+  "block.wtrendmod.hollow_cluster": "Hollow Cluster",
+  "block.wtrendmod.hollow_lamp": "Hollow Lamp",
+  "block.wtrendmod.endillic_moss": "Endillic Moss",
+  "block.wtrendmod.endillic_moss_end_stone": "Endillic Moss End Stone",
+  "block.wtrendmod.hardened_hollow_cluster": "Hardened Hollow Cluster",
+  "block.wtrendmod.end_stone_diamond_ore": "End Stone Diamond Ore"
+}
