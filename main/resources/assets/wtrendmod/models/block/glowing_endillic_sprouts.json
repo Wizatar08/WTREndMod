@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "wtrendmod:blocks/glowing_endillic_sprouts"
+  }
+}

@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "wtrendmod:infused_end_stone"
+    "wtrendmod:infused_end_stone",
+    "wtrendmod:shadow_stone"
   ]
 }

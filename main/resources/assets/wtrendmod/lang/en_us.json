@@ -21,5 +21,9 @@
   "block.wtrendmod.endillic_moss": "Endillic Moss",
   "block.wtrendmod.endillic_moss_end_stone": "Endillic Moss End Stone",
   "block.wtrendmod.hardened_hollow_cluster": "Hardened Hollow Cluster",
-  "block.wtrendmod.end_stone_diamond_ore": "End Stone Diamond Ore"
+  "block.wtrendmod.end_stone_diamond_ore": "End Stone Diamond Ore",
+  "block.wtrendmod.shadow_stone": "Shadow Stone",
+  "block.wtrendmod.endillic_log": "Endillic Log",
+  "block.wtrendmod.endillic_sprouts": "Endillic Sprouts",
+  "block.wtrendmod.glowing_endillic_sprouts": "Glowing Endillic Sprouts"
 }

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "wtrendmod:block/endillic_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "wtrendmod:block/endillic_log"
+    },
+    "axis=z": {
+      "model": "wtrendmod:block/endillic_log_horizontal",
+      "x": 90
+    }
+  }
+}
