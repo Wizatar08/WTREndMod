@@ -67,17 +67,21 @@ public class BlockInit {
     public static final RegistryObject<Block> SHADOW_STONE = register("shadow_stone",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(2.7f, 7.9f).requiresCorrectToolForDrops()),
             new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS));
+    public static final RegistryObject<Block> CRACKED_SHADOW_STONE = register("cracked_shadow_stone",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(0.5f, 2.2f).lightLevel((light) -> 4)),
+            new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS));
 
 
     /*
     BIOME IDEAS:
     - Hollowlands (hollow and shadow blocks) (black)
     - Endillic forest (and variants) (pink)
-    - Chorus bloom (purple)
+    - Chorus bloom (purple) [MAYBE]
     - End spikes
-    - Searing monoliths (yellow)
+    - Searing monoliths (yellow) [MAYBE]
     - Icy Ruins (blue)
-    - Isolated Plateau (green)
+    - Isolated Plateau (green) [MAYBE]
+    - Leviopia (red)
      */
 
     private static Boolean never(BlockState p_50779_, BlockGetter p_50780_, BlockPos p_50781_, EntityType<?> p_50782_) {

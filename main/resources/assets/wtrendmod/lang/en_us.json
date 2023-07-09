@@ -1,5 +1,6 @@
 {
   "item.wtrendmod.hollow_shard": "Hollow Shard",
+  "item.wtrendmod.shadow_stone_powder": "Shadow Stone Powder",
   "item.wtrendmod.hollow_sword": "Hollow Sword",
   "item.wtrendmod.hollow_pickaxe": "Hollow Pickaxe",
   "item.wtrendmod.hollow_shovel": "Hollow Shovel",
@@ -23,6 +24,7 @@
   "block.wtrendmod.hardened_hollow_cluster": "Hardened Hollow Cluster",
   "block.wtrendmod.end_stone_diamond_ore": "End Stone Diamond Ore",
   "block.wtrendmod.shadow_stone": "Shadow Stone",
+  "block.wtrendmod.cracked_shadow_stone": "Cracked Shadow Stone",
   "block.wtrendmod.endillic_log": "Endillic Log",
   "block.wtrendmod.endillic_sprouts": "Endillic Sprouts",
   "block.wtrendmod.glowing_endillic_sprouts": "Glowing Endillic Sprouts"

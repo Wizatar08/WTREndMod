@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EM",
+    "ME"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:end_stone"
+    },
+    "M": {
+      "item": "wtrnedmod:endillic_moss"
+    }
+  },
+  "result": {
+    "item": "wtrendmod:endillic_moss_end_stone",
+    "count": 3
+  }
+}

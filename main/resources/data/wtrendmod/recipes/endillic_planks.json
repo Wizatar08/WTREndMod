@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "wtrendmod:endillic_log"
+    }
+  ],
+  "result": {
+    "item": "wtrendmod:endillic_planks",
+    "count": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "wtrendmod:shadow_stone_powder"
+    }
+  },
+  "result": {
+    "item": "wtrendmod:cracked_shadow_stone"
+  }
+}

@@ -20,6 +20,8 @@ public class ItemInit {
 
     public static final RegistryObject<Item> HOLLOW_SHARD = ITEMS.register("hollow_shard",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MATERIALS).fireResistant()));
+    public static final RegistryObject<Item> SHADOW_STONE_POWDER = ITEMS.register("shadow_stone_powder",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MATERIALS)));
     public static final RegistryObject<SwordItem> HOLLOW_SWORD = ITEMS.register("hollow_sword",
         () -> new SwordItem(ToolTiers.HOLLOW, 5, -2.5f, new Item.Properties().tab(CreativeModeTab.TAB_COMBAT).fireResistant()));
     public static final RegistryObject<PickaxeItem> HOLLOW_PICKAXE = ITEMS.register("hollow_pickaxe",

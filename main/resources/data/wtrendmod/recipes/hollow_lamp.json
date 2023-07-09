@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HGH",
+    "EGE",
+    "HGH"
+  ],
+  "key": {
+    "H": {
+      "item": "wtrendmod:hollow_stone"
+    },
+    "E": {
+      "item": "minecraft:end_stone"
+    },
+    "G": {
+      "item": "wtrendmod:glowing_endillic_sprouts"
+    }
+  },
+  "result": {
+    "item": "minecraft:anvil"
+  }
+}
